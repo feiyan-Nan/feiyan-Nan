@@ -5,7 +5,8 @@
 - 🤔 I’m currently coding in Javascript PHP and Node.
 - ❤️ I like play basketball 🏀 and Self-driving tour 🚗.
 - 💬 Be free to ask me about anything [here](https://github.com/nanfeiyan123/nanfeiyan123/issues).
-  <img align="right" height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nanfeiyan123&show_icons=true&hide_border=true">
+
+### :octocat: My GitHub Stats
+![nanfeiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanfeiyan123&hide_title=true&show_icons=true&icon_color=0366d6)
+  <img align="left" height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanfeiyan123&hide_border=true">
-</div>
