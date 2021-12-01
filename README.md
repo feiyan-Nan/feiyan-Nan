@@ -1,4 +1,3 @@
-### Hi, I'm 
 
 <p align="right">
   <a href="#" target="_blank">
@@ -7,7 +6,7 @@
 </p>
 
 <h1 align="center">Feiyan.Nan 👋</h1>
-<hr>
+
 <p align="center"><b>Software Engineer interested in Frontend &amp; User Experience.</b></p>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nanfeiyan123&theme=nord&margin-w=15" alt="Github Profile Trophy" />
@@ -30,6 +29,14 @@
   <img align="right" height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanfeiyan123&hide_border=true">
 
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <h3 align="center">Technologies & Tools</h3>
