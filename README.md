@@ -9,7 +9,7 @@
 
 <p align="center"><b>Software Engineer interested in Frontend &amp; User Experience.</b></p>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nanfeiyan123&theme=nord&margin-w=15" alt="Github Profile Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=feiyan-Nan&theme=nord&margin-w=15" alt="Github Profile Trophy" />
 </p>
 
 <p align="center">I Have more than 4 years of experience with a computer science background, working in <a href="//www.hypers.com/">HYPERS</a> with various frontend technologies to achieve the best performance and smooth user experience.</p>
@@ -22,14 +22,14 @@
 - 🤔 I’m currently coding in Javascript PHP and Node.
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs
 - ❤️ I like play basketball 🏀 and Self-driving tour 🚗.
-- 💬 Be free to ask me about anything [here](https://github.com/nanfeiyan123/nanfeiyan123/issues).
+- 💬 Be free to ask me about anything [here](https://github.com/feiyan-Nan/feiyan-Nan/issues).
 - 📝 &nbsp; Available for hire, [Drop me a letter](mailto:3328921305@qq.com)
 
 <p>&nbsp;</p>
 
 ### :octocat: My GitHub Stats
   <img align="right" height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanfeiyan123&hide_border=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feiyan-Nan&hide_border=true">
 
 
 <p>&nbsp;</p>
