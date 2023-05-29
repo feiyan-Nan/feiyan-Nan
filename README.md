@@ -18,7 +18,7 @@
 <img align="right" height="200" alt="" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" />
 
 
-- 🌱 I’m a front-end developer working in HYPERS.
+- 🌱 I’m a front-end developer working in JOYY.
 - 🤔 I’m currently coding in Javascript PHP and Node.
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs
 - ❤️ I like play basketball 🏀 and Self-driving tour 🚗.
